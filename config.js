@@ -18,6 +18,13 @@ const users = [
     position: "CEO",
     img: "img/user/profile-licat.png",
   },
+  {
+    id: 0,
+    username: "jeemin",
+    company: "",
+    position: "",
+    img: "img/user/hati.png"
+  }
 ];
 
 const localDataUsing = false; // 로컬 데이터 사용 여부
